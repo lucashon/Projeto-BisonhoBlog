@@ -20,3 +20,26 @@ body{
 .logo-branco{
     color: white;
 }
+#area-menu a{
+    text-decoration: none;
+    color: black;
+    border-radius: 8;
+}
+#area-menu a:link, #area-menu a:visited{
+    /* background-color: white; */
+    padding: 8px 12px;
+    border-radius: 8px;
+}
+#area-menu a:hover{
+    background-color: white;
+    color: #f7b600;
+}
+#area-principal{
+    width: 57.5rem;
+    margin: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+#area-postagens{
+    width: 41.25rem;
+}
