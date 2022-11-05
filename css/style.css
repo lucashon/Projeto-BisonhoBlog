@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;    
+}
+
+body{
+  font-size: 1rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #e6e6e6;
+}
+#area-cabecalho {
+    padding: 0.9rem;
+    background-color: #f7b600;
+    text-align: center;
+}
+#area-logo, #area-menu{
+    padding: 0.7rem;
+}
+.logo-branco{
+    color: white;
+}
